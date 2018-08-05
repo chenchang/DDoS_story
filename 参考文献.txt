@@ -1,0 +1,31 @@
+参考文献：
+
+DDos入门知识：
+	《破坏之王_DDoS攻击与防范深度剖析》
+	https://www.yuque.com/u34331/rvo3wk/cccsa5
+
+	《不可不知 DDoS的攻击原理与防御方法》
+	https://www.cnblogs.com/xuan52rock/p/4377393.html
+
+	《38万人黑产帝国 DDoS攻击利益链年入100亿》
+	http://www.aqniu.com/industry/12052.html
+
+
+	《可视化DDoS全球攻击地图》
+	http://www.freebuf.com/articles/network/23538.html
+
+
+分析报告：
+	《CNCERT数据分析报告》
+	http://www.cert.org.cn/publish/main/68/index.html
+
+	《.cn根域名服务器被攻击官方公告》
+	http://www.cnnic.net.cn/gywm/xwzx/xwzxtzgg/201308/t20130825_41322.htm
+
+	《.cn根域名服务器遭遇有史最大的DDOS攻击》
+	http://www.freebuf.com/news/12000.html
+
+	《Memcached及Memcached安全配置——从github被大规模DDos说起》
+	http://www.freebuf.com/column/164643.html
+
+
